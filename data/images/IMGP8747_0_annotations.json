@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "CherryBBCH72 Dataset - Cherry fruit images captured during fruit development stage (BBCH 72-73)",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9805635732,
+      "width": 640,
+      "height": 640,
+      "file_name": "IMGP8747_0.jpg",
+      "size": 37406,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8494475732,
+      "image_id": 9805635732,
+      "category_id": 2507338732,
+      "segmentation": [],
+      "area": 357.0147196928,
+      "bbox": [
+        239.27424,
+        517.00032,
+        17.00096,
+        20.99968
+      ]
+    },
+    {
+      "id": 6253804732,
+      "image_id": 9805635732,
+      "category_id": 2507338732,
+      "segmentation": [],
+      "area": 419.93984081920007,
+      "bbox": [
+        227.27232,
+        508.0,
+        19.99744,
+        20.99968
+      ]
+    },
+    {
+      "id": 5612895732,
+      "image_id": 9805635732,
+      "category_id": 2507338732,
+      "segmentation": [],
+      "area": 720.0460800000001,
+      "bbox": [
+        472.27072,
+        355.00032,
+        30.001920000000002,
+        24.0
+      ]
+    },
+    {
+      "id": 7531554732,
+      "image_id": 9805635732,
+      "category_id": 2507338732,
+      "segmentation": [],
+      "area": 840.9257590784,
+      "bbox": [
+        339.27232000000004,
+        443.99968,
+        28.997120000000002,
+        29.00032
+      ]
+    },
+    {
+      "id": 7495312732,
+      "image_id": 9805635732,
+      "category_id": 2507338732,
+      "segmentation": [],
+      "area": 587.9820795904001,
+      "bbox": [
+        180.27519999999998,
+        211.0,
+        27.998720000000002,
+        21.000320000000002
+      ]
+    },
+    {
+      "id": 1955299732,
+      "image_id": 9805635732,
+      "category_id": 2507338732,
+      "segmentation": [],
+      "area": 810.0614406144001,
+      "bbox": [
+        185.27168,
+        234.99967999999998,
+        30.001920000000002,
+        27.000320000000002
+      ]
+    },
+    {
+      "id": 5592363732,
+      "image_id": 9805635732,
+      "category_id": 2507338732,
+      "segmentation": [],
+      "area": 959.9808,
+      "bbox": [
+        190.27103999999997,
+        189.0,
+        31.999360000000003,
+        30.0
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2507338732,
+      "name": "CherryBBCH72",
+      "supercategory": "cherry"
+    }
+  ]
+}

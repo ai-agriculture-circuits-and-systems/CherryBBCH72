@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "CherryBBCH72 Dataset - Cherry fruit images captured during fruit development stage (BBCH 72-73)",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1688598506,
+      "width": 640,
+      "height": 640,
+      "file_name": "IMGP8631_25.jpg",
+      "size": 72804,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7444364507,
+      "image_id": 1688598506,
+      "category_id": 7489548506,
+      "segmentation": [],
+      "area": 399.9488,
+      "bbox": [
+        75.27232,
+        423.00032,
+        19.99744,
+        20.0
+      ]
+    },
+    {
+      "id": 5869788507,
+      "image_id": 1688598506,
+      "category_id": 7489548506,
+      "segmentation": [],
+      "area": 575.0595207167999,
+      "bbox": [
+        248.2688,
+        458.0,
+        25.002239999999997,
+        23.00032
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 7489548506,
+      "name": "CherryBBCH72",
+      "supercategory": "cherry"
+    }
+  ]
+}

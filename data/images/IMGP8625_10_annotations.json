@@ -1,0 +1,191 @@
+{
+  "info": {
+    "description": "CherryBBCH72 Dataset - Cherry fruit images captured during fruit development stage (BBCH 72-73)",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1118331978,
+      "width": 640,
+      "height": 640,
+      "file_name": "IMGP8625_10.jpg",
+      "size": 38562,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3568865978,
+      "image_id": 1118331978,
+      "category_id": 3116053978,
+      "segmentation": [],
+      "area": 1001.4043611136,
+      "bbox": [
+        417.32224,
+        122.91232,
+        35.21152,
+        28.43968
+      ]
+    },
+    {
+      "id": 4494633978,
+      "image_id": 1118331978,
+      "category_id": 3116053978,
+      "segmentation": [],
+      "area": 528.2290040832,
+      "bbox": [
+        432.2211199999999,
+        95.824,
+        21.66976,
+        24.37632
+      ]
+    },
+    {
+      "id": 8569831978,
+      "image_id": 1118331978,
+      "category_id": 3116053978,
+      "segmentation": [],
+      "area": 917.0133225472,
+      "bbox": [
+        464.71968000000004,
+        109.36992000000001,
+        33.85792,
+        27.08416
+      ]
+    },
+    {
+      "id": 2899751978,
+      "image_id": 1118331978,
+      "category_id": 3116053978,
+      "segmentation": [],
+      "area": 495.23321733119997,
+      "bbox": [
+        470.13696000000004,
+        78.22015999999999,
+        20.31616,
+        24.37632
+      ]
+    },
+    {
+      "id": 5110607978,
+      "image_id": 1118331978,
+      "category_id": 3116053978,
+      "segmentation": [],
+      "area": 616.2810400768,
+      "bbox": [
+        512.1193599999999,
+        141.86784,
+        21.66976,
+        28.43968
+      ]
+    },
+    {
+      "id": 9936930978,
+      "image_id": 1118331978,
+      "category_id": 3116053978,
+      "segmentation": [],
+      "area": 530.08984064,
+      "bbox": [
+        514.82944,
+        99.88832000000001,
+        23.02336,
+        23.024
+      ]
+    },
+    {
+      "id": 4385659978,
+      "image_id": 1118331978,
+      "category_id": 3116053978,
+      "segmentation": [],
+      "area": 623.5683659776,
+      "bbox": [
+        544.6208,
+        97.17792,
+        23.02336,
+        27.08416
+      ]
+    },
+    {
+      "id": 7821057978,
+      "image_id": 1118331978,
+      "category_id": 3116053978,
+      "segmentation": [],
+      "area": 530.08984064,
+      "bbox": [
+        583.89952,
+        98.53216000000002,
+        23.02336,
+        23.024
+      ]
+    },
+    {
+      "id": 3182015978,
+      "image_id": 1118331978,
+      "category_id": 3116053978,
+      "segmentation": [],
+      "area": 575.2655511551999,
+      "bbox": [
+        616.40064,
+        99.88799999999999,
+        23.599359999999997,
+        24.37632
+      ]
+    },
+    {
+      "id": 1606017978,
+      "image_id": 1118331978,
+      "category_id": 3116053978,
+      "segmentation": [],
+      "area": 369.3835452416,
+      "bbox": [
+        621.81792,
+        32.17408,
+        18.18176,
+        20.31616
+      ]
+    },
+    {
+      "id": 5143854978,
+      "image_id": 1118331978,
+      "category_id": 3116053978,
+      "segmentation": [],
+      "area": 766.5865089023999,
+      "bbox": [
+        600.15136,
+        400.53824,
+        29.79136,
+        25.73184
+      ]
+    },
+    {
+      "id": 2175929978,
+      "image_id": 1118331978,
+      "category_id": 3116053978,
+      "segmentation": [],
+      "area": 594.0753379328,
+      "bbox": [
+        619.11072,
+        427.624,
+        20.88896,
+        28.43968
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 3116053978,
+      "name": "CherryBBCH72",
+      "supercategory": "cherry"
+    }
+  ]
+}

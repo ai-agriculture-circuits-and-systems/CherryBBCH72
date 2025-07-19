@@ -1,0 +1,191 @@
+{
+  "info": {
+    "description": "CherryBBCH72 Dataset - Cherry fruit images captured during fruit development stage (BBCH 72-73)",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9142025515,
+      "width": 640,
+      "height": 640,
+      "file_name": "IMGP8657_15.jpg",
+      "size": 42954,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9284862516,
+      "image_id": 9142025515,
+      "category_id": 3509377516,
+      "segmentation": [],
+      "area": 479.96160000000003,
+      "bbox": [
+        192.27104,
+        58.999680000000005,
+        23.99808,
+        20.0
+      ]
+    },
+    {
+      "id": 3844979516,
+      "image_id": 9142025515,
+      "category_id": 3509377516,
+      "segmentation": [],
+      "area": 594.0102397951999,
+      "bbox": [
+        314.26944,
+        155.0,
+        22.000639999999997,
+        26.99968
+      ]
+    },
+    {
+      "id": 6021885516,
+      "image_id": 9142025515,
+      "category_id": 3509377516,
+      "segmentation": [],
+      "area": 546.0415999999999,
+      "bbox": [
+        330.27232,
+        146.00032,
+        21.001599999999996,
+        26.0
+      ]
+    },
+    {
+      "id": 8927058516,
+      "image_id": 9142025515,
+      "category_id": 3509377516,
+      "segmentation": [],
+      "area": 475.0345592832,
+      "bbox": [
+        349.2736,
+        145.0,
+        25.002239999999997,
+        18.99968
+      ]
+    },
+    {
+      "id": 6968600516,
+      "image_id": 9142025515,
+      "category_id": 3509377516,
+      "segmentation": [],
+      "area": 431.96544000000006,
+      "bbox": [
+        358.2704,
+        161.0,
+        23.99808,
+        18.0
+      ]
+    },
+    {
+      "id": 3103776516,
+      "image_id": 9142025515,
+      "category_id": 3509377516,
+      "segmentation": [],
+      "area": 525.0332794879998,
+      "bbox": [
+        353.27135999999996,
+        115.00032000000002,
+        21.001599999999996,
+        24.999679999999998
+      ]
+    },
+    {
+      "id": 1000056516,
+      "image_id": 9142025515,
+      "category_id": 3509377516,
+      "segmentation": [],
+      "area": 420.0319999999999,
+      "bbox": [
+        337.2688,
+        98.0,
+        21.001599999999996,
+        20.0
+      ]
+    },
+    {
+      "id": 8382244516,
+      "image_id": 9142025515,
+      "category_id": 3509377516,
+      "segmentation": [],
+      "area": 479.96160000000003,
+      "bbox": [
+        378.2736,
+        99.00031999999999,
+        23.99808,
+        20.0
+      ]
+    },
+    {
+      "id": 3163666516,
+      "image_id": 9142025515,
+      "category_id": 3509377516,
+      "segmentation": [],
+      "area": 701.9916800000001,
+      "bbox": [
+        412.2736,
+        156.00032,
+        26.99968,
+        26.0
+      ]
+    },
+    {
+      "id": 7803151516,
+      "image_id": 9142025515,
+      "category_id": 3509377516,
+      "segmentation": [],
+      "area": 528.9705603072,
+      "bbox": [
+        535.2736,
+        210.00032000000002,
+        22.99904,
+        22.999679999999998
+      ]
+    },
+    {
+      "id": 1171815516,
+      "image_id": 9142025515,
+      "category_id": 3509377516,
+      "segmentation": [],
+      "area": 735.9750402048,
+      "bbox": [
+        533.27008,
+        227.0,
+        31.999360000000003,
+        22.999679999999998
+      ]
+    },
+    {
+      "id": 4457373516,
+      "image_id": 9142025515,
+      "category_id": 3509377516,
+      "segmentation": [],
+      "area": 359.94624,
+      "bbox": [
+        506.27008,
+        160.0,
+        14.99776,
+        24.0
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 3509377516,
+      "name": "CherryBBCH72",
+      "supercategory": "cherry"
+    }
+  ]
+}

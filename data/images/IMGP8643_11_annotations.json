@@ -1,0 +1,191 @@
+{
+  "info": {
+    "description": "CherryBBCH72 Dataset - Cherry fruit images captured during fruit development stage (BBCH 72-73)",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8117219291,
+      "width": 640,
+      "height": 640,
+      "file_name": "IMGP8643_11.jpg",
+      "size": 54434,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8003389292,
+      "image_id": 8117219291,
+      "category_id": 5109694291,
+      "segmentation": [],
+      "area": 299.9552008192,
+      "bbox": [
+        151.2736,
+        4.000319999999999,
+        19.99744,
+        14.99968
+      ]
+    },
+    {
+      "id": 3890858292,
+      "image_id": 8117219291,
+      "category_id": 5109694291,
+      "segmentation": [],
+      "area": 229.99040000000002,
+      "bbox": [
+        152.2752,
+        0.00032000000000032003,
+        22.99904,
+        10.0
+      ]
+    },
+    {
+      "id": 1225466292,
+      "image_id": 8117219291,
+      "category_id": 5109694291,
+      "segmentation": [],
+      "area": 599.9596793856001,
+      "bbox": [
+        306.27296,
+        21.0,
+        23.99808,
+        25.000320000000002
+      ]
+    },
+    {
+      "id": 7824969292,
+      "image_id": 8117219291,
+      "category_id": 5109694291,
+      "segmentation": [],
+      "area": 417.9648,
+      "bbox": [
+        329.27520000000004,
+        1.9996799999999992,
+        18.9984,
+        22.0
+      ]
+    },
+    {
+      "id": 9853790292,
+      "image_id": 8117219291,
+      "category_id": 5109694291,
+      "segmentation": [],
+      "area": 441.02687948799996,
+      "bbox": [
+        369.27264,
+        11.000319999999999,
+        21.001599999999996,
+        20.99968
+      ]
+    },
+    {
+      "id": 9670738292,
+      "image_id": 8117219291,
+      "category_id": 5109694291,
+      "segmentation": [],
+      "area": 593.99296,
+      "bbox": [
+        611.26944,
+        71.99968,
+        26.99968,
+        22.0
+      ]
+    },
+    {
+      "id": 9514588292,
+      "image_id": 8117219291,
+      "category_id": 5109694291,
+      "segmentation": [],
+      "area": 455.9616,
+      "bbox": [
+        609.2719999999999,
+        35.00032,
+        18.9984,
+        24.0
+      ]
+    },
+    {
+      "id": 6950186292,
+      "image_id": 8117219291,
+      "category_id": 5109694291,
+      "segmentation": [],
+      "area": 513.0025598976,
+      "bbox": [
+        86.27104,
+        112.99968,
+        26.99968,
+        19.00032
+      ]
+    },
+    {
+      "id": 9823585292,
+      "image_id": 8117219291,
+      "category_id": 5109694291,
+      "segmentation": [],
+      "area": 728.03584,
+      "bbox": [
+        158.2704,
+        324.99968,
+        26.00128,
+        28.0
+      ]
+    },
+    {
+      "id": 9570297292,
+      "image_id": 8117219291,
+      "category_id": 5109694291,
+      "segmentation": [],
+      "area": 840.9072009216001,
+      "bbox": [
+        392.27456000000006,
+        478.0,
+        28.997120000000002,
+        28.999679999999998
+      ]
+    },
+    {
+      "id": 6509231292,
+      "image_id": 8117219291,
+      "category_id": 5109694291,
+      "segmentation": [],
+      "area": 375.02559928319994,
+      "bbox": [
+        571.2691199999999,
+        575.0,
+        25.002239999999997,
+        14.99968
+      ]
+    },
+    {
+      "id": 9595597292,
+      "image_id": 8117219291,
+      "category_id": 5109694291,
+      "segmentation": [],
+      "area": 369.84242831360007,
+      "bbox": [
+        220.55167999999998,
+        324.01024,
+        20.04992,
+        18.446080000000002
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 5109694291,
+      "name": "CherryBBCH72",
+      "supercategory": "cherry"
+    }
+  ]
+}
